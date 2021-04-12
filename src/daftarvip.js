@@ -8,13 +8,13 @@ const daftarvip = (prefix) => {
 
 *SE QUER TER PREMIUM:*
 
-*CHAME O DARK:*
+*CHAME O IGOR:*
 
-_wa.me/5522996215481 ou digite *${prefix}owner*_
+_wa.me/558581840891 ou digite *${prefix}owner*_
 
 *OU CHAME ELE NO GRUPO*
 
-*GRUPO DO DARK:*
+*GRUPO DO IGOR:*
 
 _https://chat.whatsapp.com/K6X6sVsfkCp1KZdIIuU4Kk_ `
 }
