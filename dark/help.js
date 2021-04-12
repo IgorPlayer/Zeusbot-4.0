@@ -4,10 +4,10 @@ const help = () => {
 ║
 ╠OLA 
 ║
-╠➥ 𝐃𝐀𝐑𝐊 𝐁𝐎𝐓
+╠➥ ZEUS BOT
 ╠➥ *3.2*
-╠➥ 𝐃𝐎𝐍𝐎:  ⃬⃗𝐷𝐴𝑅𝐾⃖  ☔
-╠➥ *wa.me/+5522996215481*
+╠➥ 𝐃𝐎𝐍𝐎: IGOR  ☔
+╠➥ *wa.me/+558581840891*
 ╠➥ 𝐒𝐓𝐀𝐓𝐔𝐒: ON
 ║
 ╠══✪〘 NOVIDADES 〙✪══
@@ -345,17 +345,17 @@ const help = () => {
 ║
 ╠══✪〘 𝗗𝗢𝗡𝗢 〙✪══
 ║
-║ *NOME: 𝐷𝐴𝑅𝐾⃖  ☔*
-║ *INSTA: th.darkys*
-║ *WPP: wa.me/+5521997123716*
+║ *NOME: IGOR  ☔*
+║ *INSTA: igor_player_arts*
+║ *WPP: wa.me/+558581840891*
 ║ *YOUTUBE: https://bit.ly/3qAjeNz*
 ║
-║  *"Peita ou respeita 🐊🚩*
-║  *"kibadores, vão se fuder"*
+║  *"Tudo que vai Volta 🐊🚩*
+║  *"Amor ao Proximo"*
 ║
 ║ *${prefix}dono1* para mais info
 ║
-╚═〘 𝐃𝐀𝐑𝐊 𝐁𝐎𝐓 〙`
+╚═〘 ZEUS BOT 〙`
 }
 
 exports.help = help
