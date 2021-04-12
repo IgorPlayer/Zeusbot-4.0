@@ -348,7 +348,7 @@ const help = () => {
 ║ *NOME: IGOR  ☔*
 ║ *INSTA: igor_player_arts*
 ║ *WPP: wa.me/+558581840891*
-║ *YOUTUBE: https://bit.ly/3qAjeNz*
+║ *YOUTUBE: https://bit.ly/3my39ap*
 ║
 ║  *"Tudo que vai Volta 🐊🚩*
 ║  *"Amor ao Proximo"*
