@@ -4205,7 +4205,7 @@ break
 					break
 				case 'boquet':
 				client.updatePresence(from, Presence.composing) 
-				 data = fs.readFileSync('./Fxc7/18.js');
+				 data = fs.readFileSync('./src/18.js');
                  jsonData = JSON.parse(data);
                  randIndex = jsonData[Math.floor(Math.random() * (jsonData.length))];
                  randKey = jsonData[randIndex];
