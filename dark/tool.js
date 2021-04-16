@@ -3,7 +3,7 @@ const tool = () => {
 ──────────────────
 *TOOL HACKER TERMUX*
 ──────────────────
-        『 𝕯𝖆𝖗𝖐 𝕭𝖔𝖙 』
+        『 ZEUS 𝕭𝖔𝖙 』
 ──────────────────
 apt-get install python3
 
@@ -17,7 +17,7 @@ cd Cam-Hackers
 
 python3 cam-hackers.py
 ──────────────────
-        『 𝕯𝖆𝖗𝖐 𝕭𝖔𝖙 』
+        『 ZEUS 𝕭𝖔𝖙 』
 ──────────────────`
 }
 exports.tool = tool
