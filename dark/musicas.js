@@ -30,7 +30,7 @@ _*COMANDOS:*_
 ──────────────────
 『 SUGESTÃO DE MSC 』
            
-_*wa.me/+5522996215481*_
+_*wa.me/+558581840891*_
 ──────────────────`
 }
 exports.musicas = musicas
